@@ -13,4 +13,4 @@ class Application:
 
     @staticmethod
     def run():
-        view = Mainindow()
+        view = MainWindow()
